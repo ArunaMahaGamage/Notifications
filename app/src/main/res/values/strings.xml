@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="channel_name">My Notification</string>
+    <string name="channel_description">Fallow Me</string>
+
+
+    <string name="set_notfication">Notification</string>
+</resources>
